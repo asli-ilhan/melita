@@ -47,6 +47,10 @@ export async function generateMetadata({
       siteName: "Melita Laundry Services",
       locale: locale === "tr" ? "tr_TR" : "en_US",
       type: "website",
+      images: ["/logo_mini.png"],
+    },
+    icons: {
+      icon: "/logo_mini.png",
     },
     twitter: {
       card: "summary_large_image",
