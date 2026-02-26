@@ -59,9 +59,9 @@ export function Header({locale}: HeaderProps) {
       <div className="mx-auto flex max-w-6xl items-center justify-between gap-4 px-3 py-3 sm:px-5 lg:px-6 lg:py-4">
         <Link
           href={`/${currentLocale}`}
-          className="flex flex-none items-center gap-3"
+          className="flex flex-none items-center"
         >
-          <div className="relative h-8 w-auto sm:h-9 lg:h-10">
+          <div className="relative h-10 w-auto sm:h-11 lg:h-12">
             <Image
               src="/brand/melita-logo.png"
               alt="Melita Laundry Services"
@@ -70,12 +70,6 @@ export function Header({locale}: HeaderProps) {
               className="h-full w-auto object-contain"
               priority
             />
-          </div>
-          <div className="hidden flex-col leading-tight sm:flex">
-            <span className="text-sm font-semibold tracking-wide text-slate-900">
-              Melita Laundry Services
-            </span>
-            <span className="text-xs text-slate-500">Melita Müteahhitlik</span>
           </div>
         </Link>
 
