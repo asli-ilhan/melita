@@ -1,6 +1,6 @@
-import {redirect} from "@/i18n/navigation";
+import {redirect} from "next/navigation";
 
 export default function IndexRedirect() {
-  redirect({locale: "tr", href: "/"});
+  redirect("/tr");
 }
 

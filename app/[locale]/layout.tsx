@@ -8,7 +8,7 @@ import Script from "next/script";
 
 type Props = {
   children: ReactNode;
-  params: Promise<{locale: AppLocale}>;
+  params: Promise<{locale: string}>;
 };
 
 export async function generateStaticParams() {
@@ -18,7 +18,7 @@ export async function generateStaticParams() {
 export async function generateMetadata({
   params,
 }: {
-  params: Promise<{locale: AppLocale}>;
+  params: Promise<{locale: string}>;
 }): Promise<Metadata> {
   const {locale} = await params;
 
@@ -58,8 +58,9 @@ export async function generateMetadata({
 
 export default async function LocaleLayout({children, params}: Props) {
   const {locale} = await params;
+  const typedLocale = (locale as AppLocale) ?? "tr";
 
-  if (!routing.locales.includes(locale)) {
+  if (!routing.locales.includes(typedLocale)) {
     notFound();
   }
 
@@ -109,7 +110,7 @@ export default async function LocaleLayout({children, params}: Props) {
         })}
       </Script>
       <div className="flex min-h-screen flex-col bg-surface text-slate-900">
-        <Header locale={locale} />
+        <Header locale={typedLocale} />
         <main className="flex-1">
           <div className="mx-auto max-w-6xl px-3 pb-16 pt-8 sm:px-5 lg:px-6 lg:pt-10">
             {children}
