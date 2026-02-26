@@ -16,9 +16,6 @@ export default async function ContactPage({params}: PageProps) {
   return (
     <div className="space-y-12">
       <header className="space-y-3">
-        <p className="text-xs font-semibold uppercase tracking-[0.2em] text-primary">
-          {locale === "tr" ? "İletişim" : "Contact"}
-        </p>
         <h1 className="text-2xl font-semibold tracking-tight text-slate-900 sm:text-3xl">
           {t.title}
         </h1>

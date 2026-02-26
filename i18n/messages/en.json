@@ -22,12 +22,12 @@
     "valueBodyLogistics": "Folding, packaging and labelling flows that connect directly into your internal logistics.",
     "industriesHeading": "Industries Served",
     "industriesHealthcareTitle": "Healthcare & Public Institutions",
-    "industriesHealthcareBody": "Structured and traceable laundry services for public hospitals in Hatay.",
+    "industriesHealthcareBody": "Structured and traceable laundry services for public hospitals and hotels in Hatay.",
     "industriesHospitalityTitle": "Hospitality & Hotels",
     "industriesHospitalityBody": "High-volume laundry operations for hotels in the Antalya region with seasonal flexibility.",
     "facilityHeading": "Facility & Location",
     "facilityBody": "The operating facility is located in Reyhanlı, Hatay, with headquarters and business development in Antalya – serving both healthcare and hospitality clusters.",
-    "facilityStatHospitals": "Service for public hospitals in Hatay",
+    "facilityStatHospitals": "Service for public hospitals and hotels in Hatay",
     "facilityStatHotels": "Service for hotels in Antalya region",
     "facilityStatShifts": "Multi-shift planning for continuous operation"
   },
@@ -48,7 +48,7 @@
   "Industries": {
     "title": "Industries Served",
     "healthcareTitle": "Healthcare & Public Institutions",
-    "healthcareBody": "Melita Laundry Services supports public hospitals in Hatay with scalable, standardized and auditable laundry services designed around infection control and textile safety.",
+    "healthcareBody": "Melita Laundry Services supports public hospitals and hotels in Hatay with scalable, standardized and auditable laundry services designed around infection control and textile safety.",
     "hospitalityTitle": "Hospitality & Hotels",
     "hospitalityBody": "For hotels and resorts in Antalya, Melita manages room linen, spa textiles and staff garments with capacity planning that adapts to seasonal demand."
   },
@@ -58,7 +58,7 @@
     "machineSectionTitle": "Machine Park",
     "washersTitle": "Industrial Washing Machines",
     "washersItems": [
-      "Industrial washers in multiple kg classes (e.g. 25 kg, 40 kg, 60 kg)",
+      "Industrial washers in multiple kg classes (e.g. 50 kg, 60 kg, 80 kg, 120 kg)",
       "Programmable controls for process standardization",
       "Chemical dosing infrastructure designed for healthcare applications"
     ],

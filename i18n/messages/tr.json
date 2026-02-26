@@ -22,12 +22,12 @@
     "valueBodyLogistics": "Katlama, paketleme ve etiketleme sonrası lojistik akışa doğrudan entegre sevkiyat.",
     "industriesHeading": "Hizmet Verdiğimiz Sektörler",
     "industriesHealthcareTitle": "Sağlık Kurumları ve Kamu Hastaneleri",
-    "industriesHealthcareBody": "Hatay ilindeki kamu hastaneleri için düzenli, ölçeklenebilir ve denetlenebilir çamaşırhane hizmeti.",
+    "industriesHealthcareBody": "Hatay ilindeki kamu hastaneleri ve oteller için düzenli, ölçeklenebilir ve denetlenebilir çamaşırhane hizmeti.",
     "industriesHospitalityTitle": "Otel ve Konaklama Tesisleri",
-    "industriesHospitalityBody": "Antalya bölgesindeki oteller için yüksek hacimli, sezon dalgalanmalarına uyumlu operasyon yönetimi.",
+    "industriesHospitalityBody": "Antalya ve Hatay bölgesindeki oteller için yüksek hacimli, sezon dalgalanmalarına uyumlu operasyon yönetimi.",
     "facilityHeading": "Tesis ve Coğrafi Konum",
     "facilityBody": "Operasyon merkezi Hatay Reyhanlı’da, yönetim merkezi Antalya’dadır; böylece hem sağlık hem turizm odaklı kurumsal müşterilere yakın konumda hizmet verilir.",
-    "facilityStatHospitals": "Hatay kamu hastaneleri için hizmet",
+    "facilityStatHospitals": "Hatay kamu hastaneleri ve otelleri için hizmet",
     "facilityStatHotels": "Antalya otelleri için hizmet",
     "facilityStatShifts": "Kesintisiz çalışma için çok vardiyalı planlama"
   },
@@ -48,7 +48,7 @@
   "Industries": {
     "title": "Hizmet Verilen Sektörler",
     "healthcareTitle": "Sağlık Kurumları ve Kamu Hastaneleri",
-    "healthcareBody": "Melita Laundry Services, Hatay’daki kamu hastanelerine ölçeklenebilir, standartlaştırılmış ve izlenebilir çamaşırhane hizmeti sunar. Enfeksiyon kontrol süreçleriyle uyumlu prosesler tasarlanır ve gerektiğinde raporlanabilir.",
+    "healthcareBody": "Melita Laundry Services, Hatay’daki kamu hastaneleri ve otellerine ölçeklenebilir, standartlaştırılmış ve izlenebilir çamaşırhane hizmeti sunar. Enfeksiyon kontrol süreçleriyle uyumlu prosesler tasarlanır ve gerektiğinde raporlanabilir.",
     "hospitalityTitle": "Otel ve Konaklama Tesisleri",
     "hospitalityBody": "Antalya’daki otel ve tatil köyleri için oda tekstili, spa tekstili ve personel kıyafeti gibi farklı gruplar yönetilir. Sezonluk kapasite dalgalanmalarına uyum sağlayan planlama ve makine parkı ile operasyonun sürekliliği desteklenir."
   },
@@ -58,7 +58,7 @@
     "machineSectionTitle": "Makine Parkı",
     "washersTitle": "Endüstriyel Yıkama Makineleri",
     "washersItems": [
-      "Farklı kg kapasitelerinde (örn. 25 kg, 40 kg, 60 kg) endüstriyel yıkama makineleri",
+      "Farklı kg kapasitelerinde (örn. 50 kg, 60 kg, 80 kg, 120 kg) endüstriyel yıkama makineleri",
       "Programlanabilir kontrol panelleri ile süreç standardizasyonu",
       "Sağlık sektörü için uygun kimyasal dozajlama altyapısı"
     ],

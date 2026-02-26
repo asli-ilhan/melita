@@ -24,9 +24,6 @@ export function HomeClient({locale, t}: Props) {
           transition={{duration: 0.6}}
           className="space-y-6"
         >
-          <p className="text-xs font-semibold uppercase tracking-[0.2em] text-primary">
-            Melita Laundry Services
-          </p>
           <h1 className="text-3xl font-semibold tracking-tight text-slate-900 sm:text-4xl lg:text-5xl">
             {t.heroTitle}
           </h1>
