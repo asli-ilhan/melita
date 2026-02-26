@@ -1,0 +1,144 @@
+{
+  "Nav": {
+    "home": "Ana Sayfa",
+    "services": "Hizmetler",
+    "industries": "Sektörler",
+    "facility": "Tesis ve Kapasite",
+    "about": "Kurumsal",
+    "references": "Referanslar",
+    "contact": "İletişim",
+    "language": "Dil"
+  },
+  "Home": {
+    "heroTitle": "Endüstriyel Çamaşırhane Hizmetlerinde Güvenilir Çözüm",
+    "heroSubtitle": "Kamu hastaneleri ve oteller için hijyen odaklı, yüksek kapasiteli endüstriyel çamaşırhane hizmeti.",
+    "ctaPrimary": "Teklif Alın",
+    "ctaSecondary": "Kapasiteyi Görüntüleyin",
+    "valueTitleHygiene": "Hijyen Odaklı Operasyon",
+    "valueBodyHygiene": "Sağlık sektörüne uygun kimyasallar ve süreç kontrolüyle tekstil güvenliğini merkeze alan operasyon.",
+    "valueTitleThroughput": "Yüksek Saatlik Hacim",
+    "valueBodyThroughput": "Kurumsal hastane ve otel portföylerini destekleyen kesintisiz makine parkı ve planlama.",
+    "valueTitleLogistics": "Lojistiğe Hazır Hizmet",
+    "valueBodyLogistics": "Katlama, paketleme ve etiketleme sonrası lojistik akışa doğrudan entegre sevkiyat.",
+    "industriesHeading": "Hizmet Verdiğimiz Sektörler",
+    "industriesHealthcareTitle": "Sağlık Kurumları ve Kamu Hastaneleri",
+    "industriesHealthcareBody": "Hatay ilindeki kamu hastaneleri için düzenli, ölçeklenebilir ve denetlenebilir çamaşırhane hizmeti.",
+    "industriesHospitalityTitle": "Otel ve Konaklama Tesisleri",
+    "industriesHospitalityBody": "Antalya bölgesindeki oteller için yüksek hacimli, sezon dalgalanmalarına uyumlu operasyon yönetimi.",
+    "facilityHeading": "Tesis ve Coğrafi Konum",
+    "facilityBody": "Operasyon merkezi Hatay Reyhanlı’da, yönetim merkezi Antalya’dadır; böylece hem sağlık hem turizm odaklı kurumsal müşterilere yakın konumda hizmet verilir.",
+    "facilityStatHospitals": "Hatay kamu hastaneleri için hizmet",
+    "facilityStatHotels": "Antalya otelleri için hizmet",
+    "facilityStatShifts": "Kesintisiz çalışma için çok vardiyalı planlama"
+  },
+  "Services": {
+    "title": "Hizmetler",
+    "intro": "Melita Laundry Services, sağlık kurumları ve oteller için uçtan uca endüstriyel çamaşırhane hizmeti sunar.",
+    "washTitle": "Endüstriyel Yıkama ve Sıkma",
+    "washBody": "Farklı tekstil türleri ve kirlilik düzeyleri için programlanmış endüstriyel yıkama makineleriyle hijyen standartlarına uygun yıkama ve sıkma süreçleri.",
+    "dryTitle": "Kurutma",
+    "dryBody": "Yüksek kapasiteli endüstriyel kurutucular ile tekstilin formunu koruyan, hızlı ve kontrollü kurutma.",
+    "ironTitle": "Ütüleme ve Finisaj",
+    "ironBody": "Rulo ütüler ve ütüleme ekipmanları ile çarşaf, nevresim, havlu ve personel kıyafetlerinde düzenli ve tekrar edilebilir finisaj kalitesi.",
+    "packTitle": "Paketleme ve Sevkiyat",
+    "packBody": "Katlama, sayım, paketleme ve etiketleme sonrası, hastane ve otel içi lojistik akışına hazır sevkiyat süreçleri.",
+    "contractTitle": "Kurumsal Sözleşmeli İşletme",
+    "contractBody": "Kamu kurumları ve zincir oteller için SLA odaklı, raporlanabilir ve denetlenebilir sözleşmeli işletme modeli."
+  },
+  "Industries": {
+    "title": "Hizmet Verilen Sektörler",
+    "healthcareTitle": "Sağlık Kurumları ve Kamu Hastaneleri",
+    "healthcareBody": "Melita Laundry Services, Hatay’daki kamu hastanelerine ölçeklenebilir, standartlaştırılmış ve izlenebilir çamaşırhane hizmeti sunar. Enfeksiyon kontrol süreçleriyle uyumlu prosesler tasarlanır ve gerektiğinde raporlanabilir.",
+    "hospitalityTitle": "Otel ve Konaklama Tesisleri",
+    "hospitalityBody": "Antalya’daki otel ve tatil köyleri için oda tekstili, spa tekstili ve personel kıyafeti gibi farklı gruplar yönetilir. Sezonluk kapasite dalgalanmalarına uyum sağlayan planlama ve makine parkı ile operasyonun sürekliliği desteklenir."
+  },
+  "Facility": {
+    "title": "Tesis ve Kapasite",
+    "intro": "Reyhanlı/Hatay’daki operasyon tesisi, hem sağlık hem turizm sektörüne hizmet verebilecek şekilde makine parkı ve altyapı ile yapılandırılmıştır.",
+    "machineSectionTitle": "Makine Parkı",
+    "washersTitle": "Endüstriyel Yıkama Makineleri",
+    "washersItems": [
+      "Farklı kg kapasitelerinde (örn. 25 kg, 40 kg, 60 kg) endüstriyel yıkama makineleri",
+      "Programlanabilir kontrol panelleri ile süreç standardizasyonu",
+      "Sağlık sektörü için uygun kimyasal dozajlama altyapısı"
+    ],
+    "dryersTitle": "Kurutma Makineleri",
+    "dryersItems": [
+      "Yüksek tambur hacmine sahip endüstriyel kurutucular",
+      "Enerji verimliliği odaklı kurutma programları",
+      "Farklı tekstil gruplarına uygun sıcaklık ve süre kontrolü"
+    ],
+    "ironersTitle": "Rulo Ütüler ve Finisaj",
+    "ironersItems": [
+      "Çarşaf ve nevresim için geniş enli rulo ütüler",
+      "Katlama ve istiflemeyi kolaylaştıran çıkış masaları",
+      "Havlu ve personel kıyafeti için yardımcı ütü ekipmanları"
+    ],
+    "steamTitle": "Buhar Üretimi",
+    "steamItems": [
+      "Endüstriyel buhar kazanı",
+      "Basınç ve sıcaklık kontrolü için emniyet sistemleri"
+    ],
+    "waterTitle": "Su Hazırlama ve Arıtma",
+    "waterItems": [
+      "Şebeke suyu kalitesine göre kondisyonlama",
+      "İşletme verimliliğini destekleyen su yönetimi"
+    ],
+    "powerTitle": "Enerji ve Destek Ekipmanları",
+    "powerItems": [
+      "Elektrik kesintilerine karşı jeneratör desteği",
+      "Basınçlı hava sistemleri",
+      "Tekstil taşıma ve istifleme için yardımcı ekipmanlar"
+    ]
+  },
+  "About": {
+    "title": "Kurumsal",
+    "founded": "Melita Müteahhitlik, endüstriyel çamaşırhane ve tesis işletmeciliği alanında uzmanlaşma hedefiyle kurulmuştur.",
+    "relocation": "2025 yılında Antalya’ya taşınan yönetim yapısı ile sağlık ve turizm odaklı kurumsal müşterilere daha yakın ve erişilebilir bir hizmet modeli oluşturulmuştur.",
+    "focus": "Melita Laundry Services markası altında yalnızca çamaşırhane süreçlerine odaklanan, operasyonel verimlilik ve hijyen standardizasyonunu merkeze alan bir iş modeli yürütülür.",
+    "approach": "Tesis tasarımı, makine parkı, kimyasal tedarik ve operasyonel planlama, kamu hastaneleri ve otellerin ihtiyaçlarını karşılayacak şekilde bütüncül olarak ele alınır."
+  },
+  "References": {
+    "title": "Referanslar",
+    "intro": "Melita Laundry Services, bölgesel olarak kamu ve özel sektör kurumlarına hizmet verir. Aşağıda kurumsal iş birliklerine dair özet bir kronoloji yer almaktadır.",
+    "timeline": [
+      {
+        "year": "2022",
+        "title": "Hatay Kamu Hastaneleri ile İlk Operasyon",
+        "body": "Hatay’daki kamu hastaneleri için endüstriyel çamaşırhane hizmetlerinin devreye alınması."
+      },
+      {
+        "year": "2024",
+        "title": "Hizmet Portföyünün Genişlemesi",
+        "body": "Bölgedeki farklı sağlık kurumları ve tesislerinin tekstil süreçlerinin Melita çatısı altında konsolide edilmesi."
+      },
+      {
+        "year": "2025",
+        "title": "Antalya Otel Portföyünün Oluşturulması",
+        "body": "Antalya bölgesindeki oteller için oda ve spa tekstili odaklı hizmet modelinin devreye alınması."
+      }
+    ]
+  },
+  "Contact": {
+    "title": "İletişim",
+    "intro": "Operasyonel ihtiyaçlarınız ve teklif talepleriniz için formu doldurabilir veya doğrudan bizimle iletişime geçebilirsiniz.",
+    "hqTitle": "Genel Merkez - Antalya",
+    "hqAddress": "Duraliler Mah. 4583 Sk. Aspendos Kurumları No: 63 Kepez / Antalya",
+    "facilityTitle": "Operasyon Tesisi - Hatay",
+    "facilityAddress": "Üçtepe Mah. Mehmet Özelkara Cad. No: 1 Reyhanlı / Hatay",
+    "formName": "Ad Soyad",
+    "formInstitution": "Kurum",
+    "formPhone": "Telefon",
+    "formEmail": "E-posta",
+    "formMessage": "Mesajınız",
+    "submit": "Gönder",
+    "success": "Talebiniz başarıyla iletildi. En kısa sürede sizinle iletişime geçilecektir.",
+    "error": "Bir hata oluştu. Lütfen daha sonra tekrar deneyin.",
+    "validationName": "Lütfen ad soyad bilgisi girin.",
+    "validationInstitution": "Lütfen kurum adını girin.",
+    "validationPhone": "Lütfen geçerli bir telefon numarası girin.",
+    "validationEmail": "Lütfen geçerli bir e-posta adresi girin.",
+    "validationMessage": "Lütfen mesajınızı yazın."
+  }
+}
+

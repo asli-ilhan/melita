@@ -1,0 +1,144 @@
+{
+  "Nav": {
+    "home": "Home",
+    "services": "Services",
+    "industries": "Industries",
+    "facility": "Facility & Capacity",
+    "about": "About",
+    "references": "References",
+    "contact": "Contact",
+    "language": "Language"
+  },
+  "Home": {
+    "heroTitle": "Reliable Industrial Laundry Solutions",
+    "heroSubtitle": "Hygiene-focused industrial laundry services for hospitals and hotels with institutional-scale capacity.",
+    "ctaPrimary": "Request a Quote",
+    "ctaSecondary": "View Capacity",
+    "valueTitleHygiene": "Hygiene-driven Operations",
+    "valueBodyHygiene": "Process control and chemistry designed for healthcare textiles and infection control.",
+    "valueTitleThroughput": "High Hourly Throughput",
+    "valueBodyThroughput": "Continuous machine park and planning to support institutional hospital and hotel portfolios.",
+    "valueTitleLogistics": "Logistics-ready Service Model",
+    "valueBodyLogistics": "Folding, packaging and labelling flows that connect directly into your internal logistics.",
+    "industriesHeading": "Industries Served",
+    "industriesHealthcareTitle": "Healthcare & Public Institutions",
+    "industriesHealthcareBody": "Structured and traceable laundry services for public hospitals in Hatay.",
+    "industriesHospitalityTitle": "Hospitality & Hotels",
+    "industriesHospitalityBody": "High-volume laundry operations for hotels in the Antalya region with seasonal flexibility.",
+    "facilityHeading": "Facility & Location",
+    "facilityBody": "The operating facility is located in Reyhanlı, Hatay, with headquarters and business development in Antalya – serving both healthcare and hospitality clusters.",
+    "facilityStatHospitals": "Service for public hospitals in Hatay",
+    "facilityStatHotels": "Service for hotels in Antalya region",
+    "facilityStatShifts": "Multi-shift planning for continuous operation"
+  },
+  "Services": {
+    "title": "Services",
+    "intro": "Melita Laundry Services delivers end-to-end industrial laundry workflows for healthcare institutions and hotels.",
+    "washTitle": "Industrial Washing & Extraction",
+    "washBody": "Industrial washers tailored to textile type and soil level, ensuring hygiene compliance and consistent results.",
+    "dryTitle": "Drying",
+    "dryBody": "High-capacity industrial dryers with controlled programs that protect textile lifetime while delivering fast turnaround.",
+    "ironTitle": "Ironing & Finishing",
+    "ironBody": "Roller ironers and finishing equipment providing smooth, repeatable quality for bed linen, terry, and workwear.",
+    "packTitle": "Packaging & Delivery",
+    "packBody": "Folding, counting, packaging and labelling flows that hand off linen in a logistics-ready format for your operations.",
+    "contractTitle": "Institutional Contract Operations",
+    "contractBody": "SLA-driven, reportable contract models for public institutions and hotel groups."
+  },
+  "Industries": {
+    "title": "Industries Served",
+    "healthcareTitle": "Healthcare & Public Institutions",
+    "healthcareBody": "Melita Laundry Services supports public hospitals in Hatay with scalable, standardized and auditable laundry services designed around infection control and textile safety.",
+    "hospitalityTitle": "Hospitality & Hotels",
+    "hospitalityBody": "For hotels and resorts in Antalya, Melita manages room linen, spa textiles and staff garments with capacity planning that adapts to seasonal demand."
+  },
+  "Facility": {
+    "title": "Facility & Capacity",
+    "intro": "The Reyhanlı / Hatay facility is configured with a machine park and infrastructure built for institutional healthcare and hospitality demand.",
+    "machineSectionTitle": "Machine Park",
+    "washersTitle": "Industrial Washing Machines",
+    "washersItems": [
+      "Industrial washers in multiple kg classes (e.g. 25 kg, 40 kg, 60 kg)",
+      "Programmable controls for process standardization",
+      "Chemical dosing infrastructure designed for healthcare applications"
+    ],
+    "dryersTitle": "Drying Machines",
+    "dryersItems": [
+      "High-volume industrial dryers",
+      "Energy-efficient drying programs",
+      "Temperature and time settings tuned for different textile groups"
+    ],
+    "ironersTitle": "Roller Ironers & Finishing",
+    "ironersItems": [
+      "Wide roller ironers for sheets and duvet covers",
+      "Output tables that support folding and stacking",
+      "Supporting finishing equipment for towels and workwear"
+    ],
+    "steamTitle": "Steam Generation",
+    "steamItems": [
+      "Industrial steam boiler",
+      "Safety systems for pressure and temperature control"
+    ],
+    "waterTitle": "Water Treatment",
+    "waterItems": [
+      "Water conditioning based on local feedwater quality",
+      "Water management that supports operational efficiency"
+    ],
+    "powerTitle": "Power & Support Equipment",
+    "powerItems": [
+      "Generator backup for grid interruptions",
+      "Compressed air systems",
+      "Support equipment for textile handling and staging"
+    ]
+  },
+  "About": {
+    "title": "About",
+    "founded": "Melita Müteahhitlik was founded with a focus on industrial laundry and facility operations.",
+    "relocation": "In 2025, the company relocated its headquarters to Antalya to be closer to healthcare and hospitality clients.",
+    "focus": "The company operates under the Melita Laundry Services brand with a clear focus on industrial laundry workflows and hygiene standardization.",
+    "approach": "Facility design, machine park configuration, chemistry supply and operational planning are managed together to serve institutional public hospitals and hotels."
+  },
+  "References": {
+    "title": "References",
+    "intro": "Melita Laundry Services works with institutional partners in the public and private sector. Below is a brief view of key milestones.",
+    "timeline": [
+      {
+        "year": "2022",
+        "title": "Initial Public Hospital Operations in Hatay",
+        "body": "Commissioning of industrial laundry services for public hospitals in Hatay."
+      },
+      {
+        "year": "2024",
+        "title": "Portfolio Expansion",
+        "body": "Consolidation of textile workflows for additional healthcare institutions under the Melita umbrella."
+      },
+      {
+        "year": "2025",
+        "title": "Hospitality Portfolio in Antalya",
+        "body": "Launch of hotel-focused services for the Antalya region, covering room linen and spa textiles."
+      }
+    ]
+  },
+  "Contact": {
+    "title": "Contact",
+    "intro": "For operational requirements and proposal requests, please use the form or reach out directly.",
+    "hqTitle": "Headquarters - Antalya",
+    "hqAddress": "Duraliler Mah. 4583 Sk. Aspendos Kurumları No: 63 Kepez / Antalya",
+    "facilityTitle": "Operating Facility - Hatay",
+    "facilityAddress": "Üçtepe Mah. Mehmet Özelkara Cad. No: 1 Reyhanlı / Hatay",
+    "formName": "Name",
+    "formInstitution": "Institution",
+    "formPhone": "Phone",
+    "formEmail": "Email",
+    "formMessage": "Message",
+    "submit": "Send",
+    "success": "Your request has been received. We will contact you shortly.",
+    "error": "Something went wrong. Please try again later.",
+    "validationName": "Please enter your name.",
+    "validationInstitution": "Please enter your institution.",
+    "validationPhone": "Please enter a valid phone number.",
+    "validationEmail": "Please enter a valid email address.",
+    "validationMessage": "Please enter your message."
+  }
+}
+
