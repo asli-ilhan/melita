@@ -122,6 +122,11 @@
   "Contact": {
     "title": "İletişim",
     "intro": "Operasyonel ihtiyaçlarınız ve teklif talepleriniz için formu doldurabilir veya doğrudan bizimle iletişime geçebilirsiniz.",
+    "contactDirectTitle": "İletişim",
+    "emailLabel": "E-posta",
+    "phoneLabel": "Telefon",
+    "contactEmail": "melitaltdsti@hotmail.com",
+    "contactPhone": "+905309950731",
     "hqTitle": "Genel Merkez - Antalya",
     "hqAddress": "Duraliler Mah. 4583 Sk. Aspendos Kurumları No: 63 Kepez / Antalya",
     "facilityTitle": "Operasyon Tesisi - Hatay",

@@ -120,7 +120,7 @@ export default async function LocaleLayout({children, params}: Props) {
             {children}
           </div>
         </main>
-        <Footer />
+        <Footer locale={typedLocale} />
       </div>
     </>
   );

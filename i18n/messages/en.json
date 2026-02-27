@@ -122,6 +122,11 @@
   "Contact": {
     "title": "Contact",
     "intro": "For operational requirements and proposal requests, please use the form or reach out directly.",
+    "contactDirectTitle": "Contact",
+    "emailLabel": "Email",
+    "phoneLabel": "Phone",
+    "contactEmail": "melitaltdsti@hotmail.com",
+    "contactPhone": "+905309950731",
     "hqTitle": "Headquarters - Antalya",
     "hqAddress": "Duraliler Mah. 4583 Sk. Aspendos Kurumları No: 63 Kepez / Antalya",
     "facilityTitle": "Operating Facility - Hatay",
